@@ -1,2 +1,1 @@
-# FelicienLebegge.github.io
-Portfolio of Félicien Lebegge
+FelicienLebegge.github.io
